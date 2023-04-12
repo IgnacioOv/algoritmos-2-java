@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\005631613\Documents\uade-algo2\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4139722817.index
+3198292649.index
+477928483.index
+1116477956.index
+280186936.index

@@ -1,0 +1,19 @@
+package prin;
+
+public class prin {
+
+	public static class Nodo{
+		int valor;
+		Nodo sig;
+		
+	}
+	
+	public static void main(String[] args) {
+		Nodo uno = new Nodo();
+		Nodo dos = new Nodo();
+		Nodo tres = new Nodo();
+		
+	}
+	
+	
+}
